@@ -1,1 +1,1 @@
-<img src="./../assets/images/banner.png"/>
+<img src="https://github.com/renli-tech/.github/blob/main/assets/images/banner.png"/>
